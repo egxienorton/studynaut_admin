@@ -1,0 +1,16 @@
+   Video video = Video(
+        username: 'Studynautz',
+        uid: '45ec6rvtby78tv7vr67tr654cwec',
+        id: "Video 12e21",
+        likes: [],
+        commentCount: 0,
+        shareCount: 0,
+        songName: 'Adele',
+        caption: 'Catch the magic',
+        videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
+        profilePhoto: (userDoc.data()! as Map<String, dynamic>)['profilePhoto'],
+      thumbnail: thumbnail,
+      );
+
+
+      // that right there to json is the deal..
