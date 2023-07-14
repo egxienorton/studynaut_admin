@@ -31,7 +31,7 @@ class LecturaHome extends StatelessWidget {
             ),
           ),
           Text(
-            'Welcome, Lectura!',
+            'Welcome, Lectura Sir!',
             style: TextStyle(fontFamily: 'Aspira', fontSize: 32),
           )
         ],
