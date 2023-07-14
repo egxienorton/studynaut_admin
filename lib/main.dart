@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-        title: 'Studynaut Web by Eghosa',
+        title: 'Studynaut Web by Admin User',
         // theme: FlexColorScheme.dark().toTheme,
         debugShowCheckedModeBanner: false,
         defaultTransition: Transition.fade,
